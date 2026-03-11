@@ -16,7 +16,7 @@
 <div align="center">
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielkaue&theme=zenburn"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielkaue0&theme=zenburn"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -68,7 +68,7 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=danielkaue&style=flat-square&color=123845" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=danielkaue0&style=flat-square&color=123845" /></p> 
 </div>
 
 <br>
